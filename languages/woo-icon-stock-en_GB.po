@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Icon Stock v1.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-14 02:00:39+0000\n"
+"Last-Translator: admin <contact@bestofsite.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: icon_admin.php:16
+#@ woo-icon-stock
+msgid "Le plugin Woo icon stock vous permet d'afficher une icône à côté de la quantité, sur la page principale de l'article."
+msgstr "Woo plugin icon stock allows you to display an icon next to the amount on the main page of the article."
+
+#: icon_admin.php:31
+#@ woo-icon-stock
+msgid "Texte à afficher lorsque l'article est hors stock"
+msgstr "Text to display when the item is out of stock"
+
+#: icon_admin.php:39
+#@ woo-icon-stock
+msgid "Texte à afficher lorsque le stock est faible"
+msgstr "Text to display when the stock is low"
+
+#: icon_admin.php:47
+#@ woo-icon-stock
+msgid "Texte à afficher lorsque le stock est convenable"
+msgstr "Text to display when the stock is suitable"
+
+#: icon_admin.php:55
+#@ woo-icon-stock
+msgid "Seuil du stock faible"
+msgstr "Threshold of low stock"
+
+#: icon_admin.php:185
+#@ woo-icon-stock
+msgid "Sauvegarder"
+msgstr "Save"
+
+#: icon_admin.php:8
+#@ woo-icon-stock
+msgid "Paramètres enregistrés"
+msgstr " Settings Saved !!!"
+
+#: icon_admin.php:27
+#@ woo-icon-stock
+msgid "Paramétres généraux des icônes..."
+msgstr "General Settings icons"
+
+#: icon_admin.php:63
+#@ woo-icon-stock
+msgid "Icône à afficher"
+msgstr "Icon to display"
+
+#: icon_admin.php:85
+#@ woo-icon-stock
+msgid "Activez la fonction Woo Best Icon Custom !"
+msgstr "Enable function Woo Best Custom Icon"
+
+#: icon_admin.php:91
+#@ woo-icon-stock
+msgid "Cochez la case si vous voulez utiliser vos icônes"
+msgstr "Check the box if you want to use your icons"
+
+#: icon_admin.php:106
+#@ woo-icon-stock
+msgid "Envoyer votre icon hors stock"
+msgstr "Send your icon out of stock"
+
+#: icon_admin.php:113
+#: icon_admin.php:132
+#: icon_admin.php:152
+#@ woo-icon-stock
+msgid "Envoyer icon  "
+msgstr "Send icon"
+
+#: icon_admin.php:125
+#@ woo-icon-stock
+msgid "Envoyer votre icon stock faible"
+msgstr "Send your icon low stock"
+
+#: icon_admin.php:144
+#@ woo-icon-stock
+msgid "Envoyer votre icon stock ok"
+msgstr "Send your icon ok"
+
+#: icon_admin.php:114
+#: icon_admin.php:133
+#: icon_admin.php:153
+#@ woo-icon-stock
+msgid "Pour un affichage optimal opté pour des icônes de 25px x 25px"
+msgstr "For optimal viewing opted for 25px x 25px icons"
+

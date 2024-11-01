@@ -1,0 +1,167 @@
+/*Css Pour produit simple*/
+/*Conception et réalisation Agence Best Of Site*/
+.mon-stock {
+    margin-bottom: 10px;
+}
+
+/* Style css batterie 1*/
+.base-sto{
+    display: block;line-height: 15px;
+}
+.base-sto.stock-faible:before {
+    content: url("images/stock-faible.gif");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+.base-sto.stock-faible {
+    color: #9D2A2A;
+}
+.base-sto.stock-moyen:before {
+    content: url("images/stock-moyen.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+.base-sto.stock-ok:before {
+    content: url("images/stock-ok.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+
+/* CSS pour produit variable....base-sto */
+.base-sto .stock:before{
+    content: url("images/stock-ok.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+.base-sto .out-of-stock:before{
+    content: url("images/stock-faible.gif");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+.base-sto2 .stock:before{
+    content: url("images/ico-sto-ok2.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+.base-sto2 .out-of-stock:before{
+    content: url("images/ico-sto-out2.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+.base-sto3 .stock:before{
+    content: url("images/ico-s1.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 3px;
+}
+.base-sto3 .out-of-stock:before{
+    content: url("images/ico-s3.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 3px;
+}
+/* Style CSS batterie 2 */
+.base-sto2{
+    display: block;line-height: 15px;
+}
+.base-sto2.stock-faible:before {
+    content: url("images/ico-sto-out2.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+.base-sto2.stock-faible {
+    color: #9D2A2A;
+}
+.base-sto2.stock-moyen:before {
+    content: url("images/ico-sto-fai2.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+.base-sto2.stock-ok:before {
+    content: url("images/ico-sto-ok2.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+
+/* CSS pour produit variable....base-sto2 */
+.base-sto2.stock:before{
+    content: url("images/ico-sto-ok2.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+.base-sto2.out-of-stock:before{
+    content: url("images/ico-sto-out2.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 7px;
+}
+/* Style CSS batterie 3 */
+.base-sto3{
+    display: block;line-height: 15px;
+}
+.base-sto3.stock-faible:before {
+    content: url("images/ico-s3.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 3px;
+}
+.base-sto3.stock-faible {
+    color: #9D2A2A;
+}
+.base-sto3.stock-moyen:before {
+    content: url("images/ico-s2.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 3px;
+}
+.base-sto3.stock-ok:before {
+    content: url("images/ico-s1.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 3px;
+}
+
+/* CSS pour produit variable....base-sto3 */
+.base-sto3.stock:before{
+    content: url("images/ico-s1.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 3px;
+}
+.base-sto3.out-of-stock:before{
+    content: url("images/ico-s3.png");
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+    position: relative;
+    top: 3px;
+}
+
